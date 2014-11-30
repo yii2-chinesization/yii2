@@ -7,7 +7,6 @@ Yii 2 is a complete rewrite of its previous version Yii 1.1 which is one of the 
 Yii 2 inherits the main spirit behind Yii for being simple, fast and highly extensible.
 Yii 2 requires PHP 5.4 and embraces the best practices and protocols found in modern Web application development.
 
-
 [![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2/v/stable.png)](https://packagist.org/packages/yiisoft/yii2)
 [![Total Downloads](https://poser.pugx.org/yiisoft/yii2/downloads.png)](https://packagist.org/packages/yiisoft/yii2)
 [![Reference Status](https://www.versioneye.com/php/yiisoft:yii2/reference_badge.svg)](https://www.versioneye.com/php/yiisoft:yii2/references)
